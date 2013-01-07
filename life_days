@@ -19,5 +19,5 @@ day_num = (today - birthday).days
 remaining = 28506 - day_num
 
 print ""
-print bold("Hello Adam,"), "you have been alive", redbold("%i days" % day_num), "and you are projected to live", redbold("%i more" % remaining) + "."
+print bold("Hello Jon,"), "you have been alive", redbold("%i days" % day_num), "and you are projected to live", redbold("%i more" % remaining) + "."
 print ""
